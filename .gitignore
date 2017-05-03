@@ -98,3 +98,7 @@ ENV/
 .idea/
 
 # End of https://www.gitignore.io/api/python
+
+# Udacity results
+isolation-*.zip
+isolation-result-*.json
